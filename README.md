@@ -1,80 +1,83 @@
-<div align="center">
+<h2 align="left">Hi 👋! I am Sami and I am a software dev exploring many different things :D</h2>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Initialising+Portfolio...;Hello,+I'm+Samiullah+Javed;Full-Stack+Engineer;Startup+Builder;AI+Workflow+Optimiser" alt="Typing SVG" />
-
-  <a href="https://linkedin.com/in/samiullahjaved">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://samiullahjaved.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:samiullahjavedd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
-<br />
-
-<h2 align="center">⚡ MAIN QUEST: ENGINEERING & SCALING</h2>
+###
 
 <div align="center">
-  [cite_start]<i>"Passionate about building scalable, AI-integrated web applications."</i> [cite: 4]
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br />
+###
 
-### 🎒 The Inventory (Tech Stack)
+<img align="right" height="200" src="https://i.redd.it/g60gx41x1jaf1.gif"  />
+
+###
+
+<br clear="both">
+
+<h5 align="center">Languages, Tools and Frameworks I have laid my hands on. (Proficiency from left to right)</h5>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="django logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="flask logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="sqlite logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="php logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="42" alt="elixir logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,elixir,php&perline=6" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,django,flask,nodejs,tailwind" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,redis,supabase,n8n" />
-</div>
----
-
-### 🏆 Achievement Unlocked (Highlights)
-
-| Badge | Achievement |
-| :--- | :--- |
-| 🚀 **The Scaler** | [cite_start]Built an invoicing system processing over **20,000,000 PKR** in transactions[cite: 22]. |
-| ⚡ **Speed Demon** | [cite_start]Optimized legacy paint time from **172ms** down to **30ms**[cite: 16]. |
-| 💸 **The Optimizer** | [cite_start]Slashed checkout friction at **Devkind**, boosting completion rates by **~35%**[cite: 10]. |
-| 🤖 **AI Whisperer** | [cite_start]Standardized AI prompts to cut API token costs by **30%**[cite: 17]. |
-| 🏅 **Innovator** | [cite_start]**4th Place** in *Enterprise Challenge Pakistan* for a gig-marketplace startup[cite: 46]. |
-
----
-
-### 🕹️ Current Activity
-* [cite_start]**Building in Public:** Sharing the raw technical journey of my startup on LinkedIn[cite: 41].
-* [cite_start]**Mentorship:** Mentoring interns on code reviews and task delegation[cite: 12].
-
-### 🎮 Side Quests (Hobbies)
-> **Strategies:** Chess ♟️ | **Grind:** Weightlifting 🏋️ | **Lore:** Anime 📺 | [cite_start]**Maintenance:** Fixing Things 🔧 [cite: 34]
-
----
-
-<h2 align="center">📊 PLAYER STATS</h2>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&border_radius=10" height="180" alt="languages" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=wotareudoing&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=wotareudoing&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=samiullahjaved&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+###
