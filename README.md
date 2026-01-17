@@ -5,6 +5,9 @@
 ###
 
 <div align="center">
+  <a href="https://samiullahjaved.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=website&label=samiullahjaved.com&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+  </a>
   <a href="https://discordapp.com/users/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=wotareudoing&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
