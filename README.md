@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I am Sami, an 18y/o 12th grader<br><br>- 🔭 I’m working as Software Developer @Devkind<br>- 📚 I'm currently exploring different things like open source, robotics, ai, engines, etc</p>
+<p align="left">I am Sami, an 18y/o 12th grader<br><br>- 📚 I'm currently exploring different things like open source, robotics, ai, engines, etc</p>
 
 ###
 
