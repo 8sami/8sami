@@ -30,19 +30,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="left">About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">I am Sami, an 18y/o 12th grader<br><br>- 📚 I'm currently trying out different things like open source, robotics, ai, engines, etc</p>
 
 ###
 
-<p align="left">I am Sami, an 18y/o 12th grader<br><br>- 📚 I'm currently exploring different things like open source, robotics, ai, engines, etc</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">All the languages and tools I have laid my hands on:</h3>
 
 ###
 
