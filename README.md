@@ -24,12 +24,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=8sami.8sami&"  />
-</div>
-
-###
-
 <h3 align="left">About Me</h3>
 
 ###
@@ -90,4 +84,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 
-###
+
+
+<div style="width: 35px; overflow: hidden; display: inline-block; line-height: 0; opacity: 0.08; margin-top: 200px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=8sami.8sami" 
+       style="margin-left: -51px; filter: invert(90%);">
+</div>
+
