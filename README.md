@@ -86,8 +86,5 @@
 
 
 
-<div style="width: 35px; overflow: hidden; display: inline-block; line-height: 0; opacity: 0.08; margin-top: 200px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=8sami.8sami" 
-       style="margin-left: -51px; filter: invert(90%);">
-</div>
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3D8sami.8sami%26left_text%3D%20)
 
