@@ -83,8 +83,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
-
-
-
-![](https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3D8sami.8sami%26left_text%3D%20)
-
