@@ -65,7 +65,6 @@ My portfolio has been mentioned in [**OnceUI learning resources**](https://once-
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
 
 <div align="left">
-  <a href="https://samiullahjaved.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="50" height="50" alt="portfolio" /></a>&nbsp;
   <a href="https://discordapp.com/users/wotareudoing" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" width="50" height="50" alt="discord" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/samiullahjaved/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" height="50" alt="linkedin" /></a>&nbsp;
   <a href="https://www.instagram.com/wotareudoing/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="50" height="50" alt="instagram" /></a>&nbsp;
