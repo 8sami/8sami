@@ -7,7 +7,7 @@
 
 # Hi <img align="bottom" src="assets/emojis/hello.png" width="28" alt="👋">, I'm Samiullah Javed
 
-You can call me **Sami**, I'm 18 years old. I love building cool useful products and I don't limit interests, I am into almost everything :D
+You can call me **Sami**, I'm 18 years old. I love building cool useful products and I don't limit my interests and capabilities, you'll see that I am into almost everything :D
 
 You will also see me contributing to open source projects, and I love seeing my work make a positive impact. Acively contributing to [**OHCNetwork**](https://ohc.network) and [**OnceUI**](https://once-ui.com/).
 
