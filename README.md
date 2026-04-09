@@ -1,85 +1,73 @@
-<div align="center">
-  <img height="250" src="https://i.redd.it/g60gx41x1jaf1.gif"  />
-</div>
+<!-- markdownlint-disable no-inline-html first-line-h1 -->
 
-###
+<picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="300" height="300" src="assets/animation.gif" alt="">
+</picture>
 
-<div align="center">
-  <a href="https://samiullahjaved.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=samiullahjaved.com&color=3D01C5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
-  </a>
-  <a href="https://discordapp.com/users/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=wotareudoing&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/samiullahjaved/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/wotareudoing/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:samiullahjavedd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+# Hi <img align="bottom" src="assets/emojis/hello.png" width="28" alt="👋">, I'm Samiullah Javed
 
-###
+You can call me **Sami**, I'm 18 years old. I love building cool useful products and I don't limit interests, I am into almost everything :D
 
-<h3 align="left">About Me</h3>
+You will also see me contributing to open source projects, and I love seeing my work make a positive impact. Acively contributing to [**OHCNetwork**](https://ohc.network) and [**OnceUI**](https://once-ui.com/).
 
-###
+My portfolio has been mentioned in [**OnceUI learning resources**](https://once-ui.com/handbook/build-and-launch/launch-a-portfolio-site) for how cool it is! 😎
 
-<p align="left">I am Sami, an 18y/o 12th grader<br><br>- 📚 I'm currently trying out different things like open source, robotics, ai, engines, etc</p>
+<br>
 
-###
+<picture>
+  <source srcset="assets/underline-white.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="assets/underline-black.svg" media="(prefers-color-scheme: light)">
+  <img src="assets/underline-white.svg" width="500" align="left" alt="—————————————————————————————">
+</picture>
 
-<h3 align="left">All the languages and tools I have laid my hands on:</h3>
+<br><br>
 
-###
+<!-- markdownlint-disable-next-line heading-increment -->
+
+### I write sometimes, [**check it out**](https://samiullahjaved.com/blog)
+### I do a mix of shitposting, building in public and lore drops on [**my linkedin**](https://www.linkedin.com/in/samiullahjaved/)
+
+<br>
+
+## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://react.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=django" alt="django logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html5 logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" alt="tailwindcss logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" alt="bootstrap logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://cppreference.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="cplusplus logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="c logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.php.net/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=php" alt="php logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="sqlite logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgresql logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="mysql logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://graphql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" alt="graphql logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://laravel.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=laravel" alt="laravel logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://nodejs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://elixir-lang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=elixir" alt="elixir logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask" alt="flask logo" width="50" height="50" /></a>
+</div>
+
+<br>
+
+[<img src="assets/badges/CV.png" alt="📄 CV / Resume" width="150">](https://samiullahjaved.com/Samiullah_Javed.pdf)
+
+## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
+
+<div align="left">
+  <a href="https://samiullahjaved.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="50" height="50" alt="portfolio" /></a>&nbsp;
+  <a href="https://discordapp.com/users/wotareudoing" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" width="50" height="50" alt="discord" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/samiullahjaved/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" height="50" alt="linkedin" /></a>&nbsp;
+  <a href="https://www.instagram.com/wotareudoing/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="50" height="50" alt="instagram" /></a>&nbsp;
+  <a href="mailto:samiullahjavedd@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" height="50" alt="gmail" /></a>
 </div>
