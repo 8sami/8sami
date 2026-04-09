@@ -11,7 +11,7 @@ You can call me **Sami**, I'm 18 years old. I love building cool useful products
 
 You will also see me contributing to open source projects, and I love seeing my work make a positive impact. Acively contributing to [**OHCNetwork**](https://ohc.network) and [**OnceUI**](https://once-ui.com/).
 
-[My portfolio](https://samiullahjaved.com/) has been mentioned in [**OnceUI learning resources**](https://once-ui.com/handbook/build-and-launch/launch-a-portfolio-site#setting-up-magic-portfolio) for how cool it is! 😎
+My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI learning resources**](https://once-ui.com/handbook/build-and-launch/launch-a-portfolio-site#setting-up-magic-portfolio) for how cool it is! 😎
 
 <br>
 
