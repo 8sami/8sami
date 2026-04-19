@@ -5,7 +5,7 @@
   <img align="right" width="300" height="300" src="assets/animation.gif" alt="">
 </picture>
 
-# Hi <img align="bottom" src="assets/emojis/hello.png" width="28" alt="👋">, I'm Samiullah Javed
+# Hi 👋, I'm Samiullah Javed
 
 You can call me **Sami**, I'm 18 years old. I love building cool useful products and I don't limit my interests and capabilities, you'll see that I am into almost everything :D
 
