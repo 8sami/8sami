@@ -33,7 +33,7 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
 ## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
 
 <div>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs logo" width="50" height="50" style="display: inline;" /></a>&nbsp;
   <a href="https://react.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react logo" width="50" height="50" /></a>&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=django" alt="django logo" width="50" height="50" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript logo" width="50" height="50" /></a>&nbsp;
