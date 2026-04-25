@@ -32,7 +32,6 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
 
 ## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
 
-<div>
   <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs logo" width="50" height="50" /></a>&nbsp;
   <a href="https://react.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react logo" width="50" height="50" /></a>&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=django" alt="django logo" width="50" height="50" /></a>&nbsp;
@@ -56,7 +55,6 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
   <a href="https://nodejs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs logo" width="50" height="50" /></a>&nbsp;
   <a href="https://elixir-lang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=elixir" alt="elixir logo" width="50" height="50" /></a>&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask" alt="flask logo" width="50" height="50" /></a>
-</div>
 
 <br>
 
@@ -64,9 +62,7 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
 
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
 
-<div>
   <a href="https://discordapp.com/users/wotareudoing" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" width="50" height="50" alt="discord" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/samiullahjaved/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" height="50" alt="linkedin" /></a>&nbsp;
   <a href="https://www.instagram.com/wotareudoing/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="50" height="50" alt="instagram" /></a>&nbsp;
   <a href="mailto:samiullahjavedd@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" height="50" alt="gmail" /></a>
-</div>
