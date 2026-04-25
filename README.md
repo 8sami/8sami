@@ -40,5 +40,5 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
 
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
 
-|[![discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/wotareudoing)|[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/samiullahjaved/)|[![instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/wotareudoing/)|[![gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:samiullahjavedd@gmail.com)|
+| [![discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/wotareudoing) | [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/samiullahjaved/) | [![instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/wotareudoing/) | [![gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:samiullahjavedd@gmail.com) |
 |---|---|---|---|
