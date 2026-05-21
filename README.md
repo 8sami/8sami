@@ -13,6 +13,10 @@ You will also see me contributing to open source projects, and I love seeing my 
 
 My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI learning resources**](https://once-ui.com/handbook/build-and-launch/launch-a-portfolio-site#setting-up-magic-portfolio) for how cool it is! 😎
 
+<!-- markdownlint-disable-next-line heading-increment -->
+
+### I [**write sometimes**](https://samiullahjaved.com/blog) & I also do a mix of shitposting, building in public and lore drops on [**my linkedin**](https://www.linkedin.com/in/samiullahjaved/)
+
 <br>
 
 <picture>
@@ -22,11 +26,6 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
 </picture>
 
 <br>
-
-<!-- markdownlint-disable-next-line heading-increment -->
-
-### I [**write sometimes**](https://samiullahjaved.com/blog) & I also do a mix of shitposting, building in public and lore drops on [**my linkedin**](https://www.linkedin.com/in/samiullahjaved/)
-
 
 ## <sub><picture><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;All the Languages and Tools that I have ever touched
 
