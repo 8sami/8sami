@@ -29,7 +29,8 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
 ### I do a mix of shitposting, building in public and lore drops on [**my linkedin**](https://www.linkedin.com/in/samiullahjaved/)
 
 <br>
-## <sub><picture><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Tools
+
+## <sub><picture><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;All the Languages and Tools that I have ever touched
 
 <div align="left">
   <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs logo" width="50" height="50" /></a>&nbsp;
