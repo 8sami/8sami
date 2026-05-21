@@ -70,4 +70,6 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
   <a href="mailto:samiullahjavedd@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" height="50" alt="gmail" /></a>
 </div>
 
-ty [okinea dev](https://github.com/okineadev/) for the readme <3
+<br>
+
+ty [okinea dev](https://github.com/okineadev/) for the readme ♥️
