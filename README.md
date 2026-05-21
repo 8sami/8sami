@@ -72,4 +72,6 @@ My [**portfolio**](https://samiullahjaved.com/) has been mentioned in [**OnceUI 
 
 <br>
 
--# ty for the readme [okinea dev](https://github.com/okineadev/) <3
+<div align="right">
+  <sup>ty for the readme [okinea dev](https://github.com/okineadev/) <3</sup>
+</div>
